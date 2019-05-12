@@ -2,7 +2,7 @@
   "name": "sesiduabelas",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aysn.github.io/sesiduabelas/",
+  "homepage": "https://ayusn.github.io/sesiduabelas/",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
